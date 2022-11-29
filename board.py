@@ -15,7 +15,6 @@ class Board:
         print("____________")
 
         print("{} | {} | {}".format(*self.board[2]))
-        print("____________")
 
         print()
 
